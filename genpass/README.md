@@ -5,5 +5,5 @@ Python script for generating passwords.
 
     python genpass.py <length> [<s>]
     
-**length** - password length
+**length** - password length  
 **s** *(optional)* - use special symbols in password
